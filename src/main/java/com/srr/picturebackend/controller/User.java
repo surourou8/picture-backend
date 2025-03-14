@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.srr.picturebackend.demos.web;
+package com.srr.picturebackend.controller;
 
 /**
  * @author <a href="mailto:chenxilzx1@gmail.com">theonefx</a>
